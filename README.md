@@ -40,7 +40,7 @@ Para criar um Copiloto, o processo segue este fluxo:
 2.  **Soluções:** Organizamos os componentes do projeto.
 3.  **Pipelines:** Gerenciamos a entrega e o ciclo de vida do bot.
 
-**Opções de Criação:**
+**Opções de Criação no Microsoft Copilot Studio:**
 *   **Do zero:** Um Copilot em branco para controle total.
 *   **Descrição de IA:** Você diz o que quer, e a IA gera a estrutura.
 *   **Modelos Prontos:** Uso de templates pré-configurados para acelerar o desenvolvimento.
